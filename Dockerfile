@@ -1,5 +1,5 @@
 FROM jenkins/jenkins:lts
-MAINTAINER miiro@getintodevops.com
+MAINTAINER github.com/salvatorenovelli
 USER root
 
 # Install the latest Docker CE binaries
